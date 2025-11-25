@@ -1,5 +1,5 @@
 # Pegar-im-genes
 Aquí se pegarán imágenes
 
-
-Descripión de la imagen inesg99/Pegar-im-genes/blob/main/imagenes/conejos%20git.webp
+![Imagen1](/inesg99/Pegar-im-genes/blob/main/imagenes/conejos%20git.webp)
+![Imagen2](/inesg99/Pegar-im-genes/blob/main/imagenes/piscina%20git.webp) 
